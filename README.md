@@ -1,2 +1,2 @@
-# git
-Справочные материалы по git
+# GitHub-Education
+Справочные материалы по Git и GitHub
